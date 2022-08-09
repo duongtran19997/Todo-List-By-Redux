@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4366141-4320-4ffe-a799-6076fa557030" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/component/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/component/TodoForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/store/action/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/store/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/store/reducers/reducers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/Todo-List/components/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/Todo-List/components/todoForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/Todo-List/redux/action/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/Todo-List/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/Todo-List/redux/reducers/todoReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/Todo-List/redux/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Redux-1/root-redux" beforeDir="false" afterPath="$PROJECT_DIR$/../Redux-1/root-redux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap" beforeDir="false" afterPath="$PROJECT_DIR$/baitap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/public/logo192.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/public/logo512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/public/manifest.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +70,7 @@
       <workItem from="1659058150400" duration="8334000" />
       <workItem from="1659145454380" duration="9663000" />
       <workItem from="1659775203605" duration="8381000" />
+      <workItem from="1659941458595" duration="7911000" />
     </task>
     <servers />
   </component>
